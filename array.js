@@ -13,7 +13,7 @@ console.log(fruits);
 
 // unshift 
 // fruits.unshift("banana");
-// fruits.unshift("myfruit");
+// fruits.unshift("myfruit"); 
 // console.log(fruits);
 
 // shift 
